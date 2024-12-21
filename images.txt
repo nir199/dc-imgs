@@ -1,1 +1,1 @@
-docker.io/library/java:8u40-jdk
+ascdc/jdk8
