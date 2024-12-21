@@ -1,1 +1,1 @@
-ascdc/jdk8
+openjdk:8
