@@ -1,1 +1,2 @@
 moby/buildkit:buildx-stable-1
+java:8u40-jdk
